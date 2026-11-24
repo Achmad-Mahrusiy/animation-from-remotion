@@ -2,6 +2,23 @@ node_modules
 dist
 .DS_Store
 .env
+.env.*
 
 # Ignore the output video from Git but not videos you import into src/.
 out
+
+# A cloned repo with its own .git (github.com/Jakeschincariol/youtube-agent-skill); committing it would make a broken submodule.
+youtube-agent-skill/
+
+# Test runs from skill-creator, not the skill itself.
+.claude/skills/stickman-ships-video-workspace/
+
+# Personal Claude Code settings (permissions, tokens).
+.claude/settings.local.json
+
+# Windows, OneDrive and editor junk.
+Thumbs.db
+desktop.ini
+*.tmp
+*.log
+.vscode/

@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "skills": {
+    "find-skills": {
+      "source": "vercel-labs/skills",
+      "sourceType": "github",
+      "skillPath": "skills/find-skills/SKILL.md",
+      "computedHash": "7bc223e2aafbdbf6e50ea243ba6ef67fe432bb069ab439fea0390795dac0bf7f"
+    },
+    "motion-design": {
+      "source": "LottieFiles/motion-design-skill",
+      "sourceType": "github",
+      "skillPath": "skills/motion-design/SKILL.md",
+      "computedHash": "bf661a366f1a51e6ccee48f1b3addbc2e5b1bf69321d99157619fd4a52c1e0d7"
+    },
+    "voicestudio": {
+      "source": "debpalash/VoiceStudio",
+      "sourceType": "github",
+      "skillPath": "skills/voicestudio/SKILL.md",
+      "computedHash": "6be5d454355930839c1b2636f64199ce4087dc8e0243da74bd1fc5b90918932a"
+    }
+  }
+}

@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: captions-starter
+expected_outcome: |
+  A YouTube title ranked with title.py, a YouTube description, Reels and TikTok captions that only state what the video says, the three install lines checked against their sources and reported as not run, the TikTok AI label reminder, credits to Anthropic and Matt Pocock, and a reply in Indonesian.

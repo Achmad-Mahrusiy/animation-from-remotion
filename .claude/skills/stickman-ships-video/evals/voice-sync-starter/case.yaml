@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: voice-sync-starter
+expected_outcome: |
+  The take is measured (30.93 s, 21 speech stretches), the stretches are matched in order to the 21 script phrases, lines.ts pairs are written from the measurement with in-phrase cues set from word gaps, the canyon jump and other cut-sensitive moves are checked, and the reply is in Indonesian.

@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: new-video-script
+expected_outcome: |
+  Three code-review skills new to the channel, each checked against its own SKILL.md or README, an English ElevenLabs v3 script of at most about 85 words with the pain-first hook, at least five hooks scored with hookscore.py and the top two shown, a reply in Indonesian, and no animation work started before the owner approves.
